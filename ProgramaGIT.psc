@@ -6,9 +6,7 @@ Proceso ProgramaGIT
 	Definir nombre Como Caracter;
 	Definir num_usuario Como Entero;
 	
-	//pedimos al usuario el num
-	Escribir "Indique el número de alumnos que desea introducir.";
-	Leer num_usuario;
+	//pe
 	
 	Dimension nombre[num_usuario];    // el VEctor para guardar los nombres, mi programa solo permite guardar 10 alumnos en esta versi?n inicial
 	
