@@ -1,4 +1,4 @@
-VERSION 3.0: el programa permite ahora al usuario indicar el nº de alumnos que hay en la clase.
+VERSION FINAL
 
 PROGRAMA ALMACENAMIENTO DE DATOS DE ALUMNOS DE UNA CLASE
 ========================================================
