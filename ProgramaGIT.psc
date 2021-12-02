@@ -20,7 +20,7 @@ Proceso ProgramaGIT
 		Escribir "ALUMNO N? ",i+1,nombre[i];
 	FinPara
 	
-	
+	//TEXTO INVENTADO PSEINT
 	
 	
 FinProceso
